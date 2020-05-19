@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jupyter Satellite</string>
+    <string name="satelliteName">Satellite Name</string>
+    <string name="satelliteDetail">Satellite Detail</string>
+    <string name="fernandophasugian_gmail_com">fernandophasugian@gmail.com</string>
+    <string name="name_satellite">Nama Satelit</string>
+    <string name="image_satellite">Image Satellite</string>
+    <string name="description_satellite">Description Satellite</string>
+    <string name="fernando_panangian_hasugian">Fernando Panangian Hasugian</string>
+    <string name="profile">Profile</string>
+</resources>
